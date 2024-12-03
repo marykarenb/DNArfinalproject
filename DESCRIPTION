@@ -1,0 +1,11 @@
+Package: DNArproject
+Type: Package
+Title: Analyzing DNA sequence
+Version: 0.1.0
+Author: Mary Karen <marykarenb@usf.edu>
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Translation, reverse translation and fasta sequence.
+License: gpl3_license()
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
